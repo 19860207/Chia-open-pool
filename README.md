@@ -1,2 +1,2 @@
 # Chia-open-pool
-Open chia pool software
+Free open source software for your chia pool
